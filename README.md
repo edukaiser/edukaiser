@@ -1,7 +1,6 @@
 # Olá, me chamo Eduardo ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-##
 
 <div>
 <a href="https://github.com/edukaiser">
